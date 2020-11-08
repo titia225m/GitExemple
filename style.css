@@ -1,0 +1,45 @@
+p,h1
+{
+    color: blue;
+    font-family:verdana;
+}
+
+.flottant
+{
+    float: left;
+}
+.stopflottant
+{
+    clear: both;
+}
+
+/*div
+{
+	border:solid;
+	width: 30%
+}*/
+
+/*#mon_style_a
+{
+    color: red;
+}
+
+.mon_style_p
+{
+    color: grey;
+}
+
+.mon_style
+{
+    color: green;
+}*/
+
+@font-face 
+{
+    font-family: 'SourceSansPro-Black';
+    src: url('SourceSansPro-Black.eot') format('eot'),
+         url('SourceSansPro-Black.woff') format('woff'),
+         url('SourceSansPro-Black.ttf') format('truetype'),
+         url('SourceSansPro-Black.svg') format('svg');
+}
+
